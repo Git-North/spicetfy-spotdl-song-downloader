@@ -8,7 +8,7 @@ The code is not even ready yet so ill show the dependecys
 - Git for installing
 - Spotdl (it's in the name)
 - ffmpeg (Spotdl dependency)
-- python (Spotdl dependency)
+- python (Spotdl dependency) (also need it for pip)
 
 I will leave a choco script for packages above
 
