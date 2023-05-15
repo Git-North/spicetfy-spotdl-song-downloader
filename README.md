@@ -12,7 +12,7 @@ The code is not even ready yet so ill show the dependecys
 
 I will leave a choco script for packages above
 
-installing choco if not already present
+## installing choco if not already present
 
 Run this in powershell with admin :)
 
@@ -38,7 +38,7 @@ Run this in powershell with admin :)
     }
 
 ```
-and the packages
+## and the packages
 ```
 
 choco install spicetify-cli -y
@@ -49,5 +49,6 @@ pip install --upgrade pip
 pip install spotdl
 
 ```
+ > On some systems you might have to change `pip` to `pip3`.
 
 You could always just install these "the normal way" im just putting it out there 
