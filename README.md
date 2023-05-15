@@ -14,8 +14,9 @@ I will leave a choco script for packages above
 
 installing choco if not already present
 
-```
+Run this in powershell with admin :)
 
+```
     try{
         Write-Host "Checking if Chocolatey is Installed..."
 
